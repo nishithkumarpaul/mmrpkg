@@ -7,6 +7,6 @@ Author: Mahabubur Rahman <mmriu.stat@gmail.com>
 Maintainer: Mahabubur Rahman <mmriu.stat@gmail.com>
 Description: Supply numerical vector of x that calculate Mean and Variance
 Depends: Rcpp
-License: GPL2
+License: GPL-2
 NeedsCompilation: no
 Packaged: 2015-06-04 12:42:30 UTC; Evergreen
