@@ -1,0 +1,2 @@
+import('Rcpp')
+export("meanC","varC")
